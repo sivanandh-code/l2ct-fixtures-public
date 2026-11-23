@@ -1,3 +1,3 @@
 #!/bin/sh
-echo VERSION-1
-exit 1
+echo VERSION-2
+exit 0
